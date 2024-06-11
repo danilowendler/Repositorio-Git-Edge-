@@ -5,8 +5,8 @@
 - Danilo Wendler - RM: 556602
 - Pedro Muzel - RM: 555983
 - Lucas Raphael - RM: 555543
-- Vitor Ismael - RM:
-- Renato Luiz - RM:
+- Vitor Ismael - RM: 556027
+- Renato Luiz - RM: 556403
 
 
 ## 📁 Link para o Projeto no Tinkercad
