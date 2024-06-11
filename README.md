@@ -13,10 +13,10 @@
 [Projeto no Tinkercad](https://www.tinkercad.com/things/lIDTg2iTIu1-indicador-posicao-de-corrida)
 
 ## 🗒️ Descrição do Projeto
-Este projeto utiliza um Arduino Uno para criar um sistema de indicação de posição de corrida e contador de voltas automático. O sistema exibe a posição atual no display LCD e utiliza dois botões para incrementar e decrementar a posição. Além disso, um buzzer é utilizado para alertar quando a posição é alterada.
+Este projeto, visando aumentar a visibilidade da formula E no Brasil, utiliza um Arduino Uno para criar um sistema de indicação de posição de corrida e contador de voltas automático. O sistema exibe a posição atual do piloto  no display LCD e utiliza dois botões para incrementar e decrementar a posição. Além disso, um buzzer é utilizado para alertar quando a posição é alterada.
 
 ## 🗒️ Objetivo
-O objetivo deste projeto é fornecer uma maneira prática e intuitiva de monitorar a posição dos competidores de formula E em uma corrida e contar automaticamente as voltas completadas.
+O objetivo deste projeto é fornecer uma maneira prática e intuitiva de monitorar a posição dos competidores de formula E em uma corrida e contar automaticamente as voltas completadas, deixando o produto final, o site fantasy que faremos, mais intuitivo com o publico.
 
 ## 🗒️ Componentes Necessários
 - Arduino Uno
@@ -25,7 +25,7 @@ O objetivo deste projeto é fornecer uma maneira prática e intuitiva de monitor
 - Buzzer
 - Potenciômetro 10kΩ (para ajuste do contraste do LCD)
 - Resistor 220Ω (para o buzzer)
-- Resistores 10kΩ (para os botões)
+- Resistores 330 Ω (para os botões)
 - Breadboard
 - Fios de conexão
 
