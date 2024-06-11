@@ -2,9 +2,11 @@
 
 
 ## 🗒️ Autores
-[Seu Nome] - RM: [Seu RM]
-[Nome do Co-autor 1] - RM: [RM do Co-autor 1]
-[Nome do Co-autor 2] - RM: [RM do Co-autor 2]
+- Danilo Wendler - RM: 556602
+- Pedro Muzel - RM: 555983
+- Lucas Raphael - RM: 555543
+- Vitor Ismael - RM:
+- Renato Luiz - RM:
 
 
 ## 📁 Link para o Projeto no Tinkercad
