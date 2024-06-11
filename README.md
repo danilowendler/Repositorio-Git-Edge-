@@ -16,7 +16,7 @@
 Este projeto utiliza um Arduino Uno para criar um sistema de indicação de posição de corrida e contador de voltas automático. O sistema exibe a posição atual no display LCD e utiliza dois botões para incrementar e decrementar a posição. Além disso, um buzzer é utilizado para alertar quando a posição é alterada.
 
 ## 🗒️ Objetivo
-O objetivo deste projeto é fornecer uma maneira prática e intuitiva de monitorar a posição dos competidores em uma corrida e contar automaticamente as voltas completadas.
+O objetivo deste projeto é fornecer uma maneira prática e intuitiva de monitorar a posição dos competidores de formula E em uma corrida e contar automaticamente as voltas completadas.
 
 ## 🗒️ Componentes Necessários
 - Arduino Uno
@@ -82,7 +82,7 @@ Componentes listados na seção "Componentes Necessários"
 - Biblioteca LiquidCrystal (incluída na instalação padrão do Arduino IDE)
   
 ## Considerações Finais
-Este projeto é uma implementação básica de um indicador de posição de corrida com contador de voltas automático. Ele pode ser expandido para incluir mais funcionalidades, como conectividade com a Internet das Coisas (IoT) para monitoramento remoto e alertas em tempo real, proporcionando maior flexibilidade e usabilidade para diversas aplicações em eventos esportivos.
+Este projeto é uma implementação básica de um indicador de posição de corrida com contador de voltas automático. Ele pode ser expandido para incluir mais funcionalidades, como conectividade com a Internet das Coisas (IoT) para monitoramento remoto e alertas em tempo real, proporcionando maior flexibilidade e usabilidade para diversas aplicações nas corridas da formula E.
 
 
 
