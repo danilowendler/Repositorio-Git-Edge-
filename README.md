@@ -31,28 +31,28 @@ O objetivo deste projeto é fornecer uma maneira prática e intuitiva de monitor
 
 ## 🛠️ Montagem do Circuito
 ### 🛠️ Conexões do Display LCD 16x2
-- Conecte o pino GND do LCD ao GND do Arduino.
-- Conecte o pino VCC do LCD ao 5V do Arduino.
-- Conecte o pino VO ao cursor central do potenciômetro de 10kΩ (os outros dois terminais do potenciômetro ao 5V e GND).
-- Conecte o pino RS ao pino digital 12 do Arduino.
-- Conecte o pino RW ao GND do Arduino.
-- Conecte o pino E ao pino digital 11 do Arduino.
-- Conecte os pinos D4, D5, D6, D7 aos pinos digitais 5, 4, 3, 2 do Arduino, respectivamente.
-- Conecte o pino LED+ ao 5V do Arduino através de um resistor de 220Ω.
-- Conecte o pino LED- ao GND do Arduino.
+- Conectamos o pino GND do LCD ao GND do Arduino.
+- Conectamos o pino VCC do LCD ao 5V do Arduino.
+- Conectamos o pino VO ao cursor central do potenciômetro de 10kΩ (os outros dois terminais do potenciômetro ao 5V e GND).
+- Conectamos o pino RS ao pino digital 12 do Arduino.
+- Conectamos o pino RW ao GND do Arduino.
+- Conectamos o pino E ao pino digital 11 do Arduino.
+- Conectamos os pinos D4, D5, D6, D7 aos pinos digitais 5, 4, 3, 2 do Arduino, respectivamente.
+- Conectamos o pino LED+ ao 5V do Arduino através de um resistor de 220Ω.
+- Conectamos o pino LED- ao GND do Arduino.
 
 ### 🛠️ Conexões dos Botões
-Conecte um lado do primeiro botão ao pino digital 6 do Arduino.
-Conecte o outro lado do primeiro botão ao GND através de um resistor de 10kΩ.
-Conecte um lado do segundo botão ao pino digital 7 do Arduino.
-Conecte o outro lado do segundo botão ao GND através de um resistor de 10kΩ.
+Conectamos um lado do primeiro botão ao pino digital 6 do Arduino.
+Conectamos o outro lado do primeiro botão ao GND através de um resistor de 10kΩ.
+Conectamos um lado do segundo botão ao pino digital 7 do Arduino.
+Conectamos o outro lado do segundo botão ao GND através de um resistor de 10kΩ.
 
 ### 🛠️ Conexões do Buzzer
-Conecte o terminal positivo do buzzer ao pino digital 8 do Arduino.
-Conecte o terminal negativo do buzzer ao GND do Arduino.
+Ligamos o terminal positivo do buzzer ao pino digital 8 do Arduino.
+Ligamos o terminal negativo do buzzer ao GND do Arduino.
 
 ## 🛠️ Código Arduino
-O código estará presente no vídeo apresentado e no link do projeto do tinkercad.
+O código estará presente no vídeo apresentado e no link do projeto com o tinkercad.
 
 ## 🛠️ Instruções de Uso
 Montagem do Circuito:
@@ -67,7 +67,7 @@ Montagem do Circuito:
 5.Carregue o código no Arduino.
 
 ### 🗒️ Executar o Projeto:
-1.Após carregar o código, o LCD deverá inicializar e exibir "Posicao:" seguido da posição atual.
+1.Após carregar o código, o LCD deverá inicializar e exibir "Posicao Piloto:" seguido de sua posição atual.
 2.Pressione os botões para incrementar ou decrementar a posição. O buzzer soará ao mudar a posição.
 
 ### 🗒️ Ajuste de Parâmetros:
@@ -79,10 +79,10 @@ Arduino Uno
 Componentes listados na seção "Componentes Necessários"
 
 ## 🗒️ Dependências
-- Biblioteca LiquidCrystal (incluída na instalação padrão do Arduino IDE)
+- Utlizamos a Biblioteca LiquidCrystal, passada em aula para o LCD
   
 ## Considerações Finais
-Este projeto é uma implementação básica de um indicador de posição de corrida com contador de voltas automático. Ele pode ser expandido para incluir mais funcionalidades, como conectividade com a Internet das Coisas (IoT) para monitoramento remoto e alertas em tempo real, proporcionando maior flexibilidade e usabilidade para diversas aplicações nas corridas da formula E.
+Este projeto consiste nada mais do que um indicador de posição de corrida com contador de voltas automático. Ele pode ser expandido para incluir mais funcionalidades, como conectividade com a IoT para monitoramento remoto e alertas em tempo real, como no aplicativo de cartola de futebol, proporcionando uma maior flexibilidade e usabilidade para diversas aplicações nas corridas da formula E.
 
 
 
